@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\taskk1\taskk1\bin\Debug\net8.0\taskk1.exe
+C:\Users\Hp\source\repos\taskk1\taskk1\bin\Debug\net8.0\taskk1.deps.json
+C:\Users\Hp\source\repos\taskk1\taskk1\bin\Debug\net8.0\taskk1.runtimeconfig.json
+C:\Users\Hp\source\repos\taskk1\taskk1\bin\Debug\net8.0\taskk1.dll
+C:\Users\Hp\source\repos\taskk1\taskk1\bin\Debug\net8.0\taskk1.pdb
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\taskk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\taskk1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\taskk1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\taskk1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\taskk1.dll
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\refint\taskk1.dll
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\taskk1.pdb
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\taskk1.genruntimeconfig.cache
+C:\Users\Hp\source\repos\taskk1\taskk1\obj\Debug\net8.0\ref\taskk1.dll
